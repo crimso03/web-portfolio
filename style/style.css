@@ -1,0 +1,62 @@
+
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 200px;
+
+
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+#onlyr{
+    color: #FD6E0A;
+}
+nav li a{
+
+    text-decoration: none;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+.dark2{
+    color: #474747;
+}
+.btn-hire{
+    background-color: #FD6E0A;
+    color:white ;
+    font-weight: bold;
+    padding: 18px 35px;
+    border-radius: 5px;
+    border: none;
+    
+
+
+}
+.name1{
+    color: #181818;
+    font-size: 85px;
+    font-weight: bold;
+
+}
+.greet{
+    font-size: 45px;
+    font-weight: 600px;
+}
